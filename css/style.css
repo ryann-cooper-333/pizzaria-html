@@ -330,6 +330,20 @@ footer{
         max-width: 80%;
     }
 }
+@media (max-width: 1085px){
+    .img-pizza{
+        max-width: 90%;
+    }
+    .section-2{
+        width: 90%;
+    }
+    .sub-grid{
+        width: 90%;
+    }
+    .section-1{
+        height: 100%;
+    }
+}
 @media (max-width: 415px){
     .sub-grid{
         max-width: 80%;
